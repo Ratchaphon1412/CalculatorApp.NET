@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{5574D15D-C7C8-4B1A-8CE2-BB0499D4E972}|Default">
+  <MonoDevelop.Ide.ItemProperties.MintProject PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MintProject" expanded="True">
+            <Node name="MintProject" expanded="True">
+              <Node name="Resources" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
